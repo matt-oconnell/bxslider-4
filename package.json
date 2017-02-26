@@ -28,6 +28,7 @@
   "engines": {
     "node": "~0.10.28"
   },
+  "main": "dist/jquery.bxslider.js",
   "keywords": [
     "responsive",
     "carousel",
